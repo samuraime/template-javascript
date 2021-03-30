@@ -1,8 +1,8 @@
 {
-  "name": "repo-template-javascript",
+  "name": "template-javascript",
   "version": "1.0.0",
-  "description": "repo template for javascript",
-  "repository": "git@github.com:samuraime/repo-template-javascript.git",
+  "description": "template for javascript",
+  "repository": "git@github.com:samuraime/template-javascript.git",
   "author": "SamuraiMe <samurai7@foxmail.com>",
   "license": "MIT",
   "devDependencies": {

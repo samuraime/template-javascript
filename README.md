@@ -1,6 +1,6 @@
-# repo-template-javascript
+# template-javascript
 
-repo template for javascript
+template for javascript
 
 ## Basic setup
 
