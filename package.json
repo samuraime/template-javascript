@@ -6,12 +6,12 @@
   "author": "SamuraiMe <samurai7@foxmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^7.23.0",
-    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint": "^8.6.0",
+    "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-prettier": "^8.1.0",
     "eslint-plugin-import": "^2.22.1",
-    "husky": "^6.0.0",
-    "lint-staged": "^10.5.4",
+    "husky": "^7.0.4",
+    "lint-staged": "^12.1.7",
     "prettier": "^2.2.1"
   },
   "scripts": {
